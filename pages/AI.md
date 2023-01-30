@@ -2,7 +2,9 @@
 	- **[[Faces]]**
 		- [DECA](https://github.com/yfeng95/DECA)
 	- **[[3D]]**
-		- []
+		- [Votenet](https://github.com/facebookresearch/votenet)
+		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
+		-
 	- **[[Text to Speech]]**
 	  collapsed:: true
 		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
