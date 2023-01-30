@@ -1,0 +1,49 @@
+- **[[Productivity]]**
+  collapsed:: true
+	- **[NocoDB](https://www.nocodb.com/)**
+		- **The Open Source Airtable Alternative**
+		- Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-[[spreadsheet]].
+		- [Github](https://github.com/nocodb/nocodb)
+	- **[Focalboard](https://www.focalboard.com/)**
+		- **Focalboard is an [[open source]], multilingual, self-hosted project management tool that's an alternative to Trello, Notion, and Asana.**
+		- [Github](https://github.com/mattermost/focalboard)
+	- **[WIki.js](https://js.wiki/)**
+		- **The most powerful and extensible [[open source]] Wiki software**
+		- [Github](https://github.com/Requarks/wiki)
+	- **[Taskwarrior](https://taskwarrior.org/)**
+		- **Command line Task Management**
+		- Taskwarrior is a [[command line]] task list management utility with a multitude of features, developed as a portable [[open source]] project with an active and quite vast ecosystem of tools, hooks and extensions.
+		- [Github](https://github.com/GothenburgBitFactory/taskwarrior)
+	- **[Watson](https://tailordev.github.io/Watson/)**
+		- **A wonderful CLI to track your time!**
+		- [Github](https://github.com/TailorDev/Watson)
+	- **[Appflowy](https://github.com/AppFlowy-IO/AppFlowy)**
+		- **Open Source Notion Alternative**
+		- AppFlowy is an [[open source]] alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+		- [Github](https://github.com/AppFlowy-IO/AppFlowy)
+	- **[Logseq](https://logseq.com/)**
+		- **A privacy-first, [[open source]] platform for knowledge management and collaboration.**
+		- Logseq is a platform for [[knowledge management]] and collaboration. It focuses on privacy, longevity, and user control.
+		- [Github](https://github.com/logseq/logseq)
+	- **[Mattermost](https://mattermost.com/)**
+		- **Secure collaboration for technical teams**
+		- Mattermost is an [[open source]] platform for secure collaboration across the entire software development lifecycle. This repo is the primary source for core development on the Mattermost platform; it's written in Go and React and runs as a single Linux binary with MySQL or PostgreSQL. A new compiled version is released under an MIT license every month on the 16th.
+		- [Github](https://github.com/mattermost/mattermost-server)
+		-
+- **[[Media]]**
+	- **[OpenCAD](https://opencad.io/)**
+	- **[OpenFOAM](https://www.openfoam.com/)**
+	- **[Inkscape](https://inkscape.org/)**
+	- **[GIMP](https://www.gimp.org/)**
+	- **[LibreCAD](https://librecad.org/)**
+	- **[LibreOffice](https://www.libreoffice.org/)**
+	- **[Blender](https://www.blender.org/)**
+	- **[MuseScore](https://musescore.org/en)**
+	- **[Ardour](https://ardour.org/)**
+	- **[TeXstudio](https://www.texstudio.org/)**
+- Video Game Development
+	- Rust
+	- Bevy
+	- Inkle
+	- Cue
+	-

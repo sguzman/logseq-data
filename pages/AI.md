@@ -1,0 +1,11 @@
+- **[[Faces]]**
+- **[[Text to Speech]]**
+	- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
+	-
+- **[[Speech to Text]]**
+- Generative
+  collapsed:: true
+	- Text
+	- Images
+	- Music
+-
