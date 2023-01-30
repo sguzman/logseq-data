@@ -1,7 +1,9 @@
 - **[[Models]]/[[Analysis]] **
 	- **[[Faces]]**
+		- [DECA](https://github.com/yfeng95/DECA)
 		-
 	- **[[Text to Speech]]**
+	  collapsed:: true
 		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
 		- [Mozilla TTS](https://github.com/mozilla/TTS)
 		-
