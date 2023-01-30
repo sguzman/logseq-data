@@ -1,8 +1,9 @@
-- **[[Faces]]**
-- **[[Text to Speech]]**
-	- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
-	- [Mozilla TTS](https://github.com/mozilla/TTS)
-	-
+- **[[Models]]**
+	- **[[Faces]]**
+	- **[[Text to Speech]]**
+		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
+		- [Mozilla TTS](https://github.com/mozilla/TTS)
+		-
 - **[[Speech to Text]]**
 	- [Whisper](https://github.com/openai/whisper)
 - [[Vehicle]]
