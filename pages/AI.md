@@ -3,8 +3,10 @@ public:: true
 - **[[Models]]/[[Analysis]] **
 	- **[[Faces]]**
 		- [DECA](https://github.com/yfeng95/DECA)
-		- **[PRNet](https://github.com/yfeng95/PRNet)**
+		- [PRNet](https://github.com/yfeng95/PRNet)
 		- [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter)
+		- [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
+		-
 	- **[[3D]]**
 	  collapsed:: true
 		- [Votenet](https://github.com/facebookresearch/votenet)
