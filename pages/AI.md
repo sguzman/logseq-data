@@ -1,5 +1,6 @@
-- **[[Models]]**
+- **[[Models]]/[[Analysis]] **
 	- **[[Faces]]**
+		-
 	- **[[Text to Speech]]**
 		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
 		- [Mozilla TTS](https://github.com/mozilla/TTS)
