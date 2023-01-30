@@ -1,6 +1,7 @@
 public:: true
 
 - **[[Models]]/[[Analysis]] **
+  collapsed:: true
 	- **[[Faces]]**
 		- [DECA](https://github.com/yfeng95/DECA)
 		- [PRNet](https://github.com/yfeng95/PRNet)
@@ -11,6 +12,8 @@ public:: true
 		- [insightface](https://github.com/deepinsight/insightface)
 		- [retinaface](https://github.com/serengil/retinaface)
 		- [facenet](https://github.com/davidsandberg/facenet)
+		- [image-retrieval](https://github.com/deepinsight/image-retrieval)
+		-
 	- **[[3D]]**
 		- [Votenet](https://github.com/facebookresearch/votenet)
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
