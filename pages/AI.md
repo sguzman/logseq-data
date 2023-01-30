@@ -10,7 +10,7 @@ public:: true
 		- [vrn](https://github.com/AaronJackson/vrn)
 		- [insightface](https://github.com/deepinsight/insightface)
 		- [retinaface](https://github.com/serengil/retinaface)
-		-
+		- [facenet](https://github.com/davidsandberg/facenet)
 	- **[[3D]]**
 		- [Votenet](https://github.com/facebookresearch/votenet)
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
