@@ -6,16 +6,16 @@ public:: true
 		- [PRNet](https://github.com/yfeng95/PRNet)
 		- [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter)
 		- [3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
+		- [3DDFA](https://github.com/cleardusk/3DDFA)
 		-
 	- **[[3D]]**
-	  collapsed:: true
 		- [Votenet](https://github.com/facebookresearch/votenet)
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
 		- [Frustum PointNets](https://github.com/charlesq34/frustum-pointnets)
 		- [MeshCNN](https://github.com/ranahanocka/MeshCNN)
 		- [Nerfies](https://github.com/google/nerfies)
 		- **[unsup3d](https://github.com/elliottwu/unsup3d)**
-		-
+		- [nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 	- **[[Text to Speech]]**
 	  collapsed:: true
 		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
