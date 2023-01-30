@@ -3,7 +3,10 @@ public:: true
 - **[[Models]]/[[Analysis]] **
 	- **[[Faces]]**
 		- [DECA](https://github.com/yfeng95/DECA)
+		- **[PRNet](https://github.com/yfeng95/PRNet)**
+		- [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter)
 	- **[[3D]]**
+	  collapsed:: true
 		- [Votenet](https://github.com/facebookresearch/votenet)
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
 		- [Frustum PointNets](https://github.com/charlesq34/frustum-pointnets)
