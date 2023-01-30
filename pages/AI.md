@@ -4,11 +4,11 @@
 		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
 		- [Mozilla TTS](https://github.com/mozilla/TTS)
 		-
-- **[[Speech to Text]]**
-	- [Whisper](https://github.com/openai/whisper)
-- [[Vehicle]]
-	- [SVL Simulator](https://github.com/lgsvl/simulator)
-- Generative
+	- **[[Speech to Text]]**
+		- [Whisper](https://github.com/openai/whisper)
+	- [[Vehicle]]
+		- [SVL Simulator](https://github.com/lgsvl/simulator)
+- **[[Generative]]**
   collapsed:: true
 	- Text
 	- Images
