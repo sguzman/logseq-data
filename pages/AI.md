@@ -15,11 +15,12 @@
 	- [[Vehicle]]
 		- [SVL Simulator](https://github.com/lgsvl/simulator)
 - **[[Generative]]**
-  collapsed:: true
-	- Text
-	- Images
-	- Music
+	- **[[Text]]**
+	- **[[Images]]**
+	- **[[Music]]**
+	-
 - **[[Datasets]]**
+  collapsed:: true
 	- **[[Videos]]**
 		- **[[Objectron]]**
 			- [Github]((https://github.com/google-research-datasets/Objectron))
