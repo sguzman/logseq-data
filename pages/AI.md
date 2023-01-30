@@ -7,6 +7,7 @@ public:: true
 		- [Votenet](https://github.com/facebookresearch/votenet)
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
 		- [Frustum PointNets](https://github.com/charlesq34/frustum-pointnets)
+		- [MeshCNN](https://github.com/ranahanocka/MeshCNN)
 		-
 	- **[[Text to Speech]]**
 	  collapsed:: true
