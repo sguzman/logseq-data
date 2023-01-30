@@ -8,7 +8,9 @@ public:: true
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
 		- [Frustum PointNets](https://github.com/charlesq34/frustum-pointnets)
 		- [MeshCNN](https://github.com/ranahanocka/MeshCNN)
-		- [Nerfies]
+		- [Nerfies](https://github.com/google/nerfies)
+		- **[unsup3d](https://github.com/elliottwu/unsup3d)**
+		-
 	- **[[Text to Speech]]**
 	  collapsed:: true
 		- [TorToiSe TTS](https://github.com/neonbjb/tortoise-tts)
