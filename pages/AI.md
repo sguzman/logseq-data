@@ -1,3 +1,5 @@
+public:: true
+
 - **[[Models]]/[[Analysis]] **
 	- **[[Faces]]**
 		- [DECA](https://github.com/yfeng95/DECA)
