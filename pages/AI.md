@@ -9,6 +9,7 @@ public:: true
 		- [3DDFA](https://github.com/cleardusk/3DDFA)
 		- [vrn](https://github.com/AaronJackson/vrn)
 		- [insightface](https://github.com/deepinsight/insightface)
+		- [retinaface](https://github.com/serengil/retinaface)
 		-
 	- **[[3D]]**
 		- [Votenet](https://github.com/facebookresearch/votenet)
