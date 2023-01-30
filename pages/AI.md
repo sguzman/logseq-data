@@ -4,6 +4,9 @@
 	- [Mozilla TTS](https://github.com/mozilla/TTS)
 	-
 - **[[Speech to Text]]**
+	- [Whisper](https://github.com/openai/whisper)
+- [[Vehicle]]
+	-
 - Generative
   collapsed:: true
 	- Text
