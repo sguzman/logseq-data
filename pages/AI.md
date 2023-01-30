@@ -18,7 +18,9 @@
 	- **[[Text]]**
 	- **[[Images]]**
 	- **[[Music]]**
-	-
+	- **[[3D]]**
+		- [Pixel2Mesh](https://github.com/nywang16/Pixel2Mesh)
+		-
 - **[[Datasets]]**
   collapsed:: true
 	- **[[Videos]]**
