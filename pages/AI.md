@@ -6,7 +6,7 @@
 - **[[Speech to Text]]**
 	- [Whisper](https://github.com/openai/whisper)
 - [[Vehicle]]
-	-
+	- [SVL Simulator](https://github.com/lgsvl/simulator)
 - Generative
   collapsed:: true
 	- Text
