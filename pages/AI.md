@@ -44,6 +44,10 @@ public:: true
 		- **[yolov5](https://github.com/ultralytics/yolov5)**
 		- **[mmdetection](https://github.com/open-mmlab/mmdetection)**
 		- **[darknet](https://github.com/AlexeyAB/darknet)**
+		- [YOLOv6](https://github.com/meituan/YOLOv6)
+		- [yolov7_d2](https://github.com/jinfagang/yolov7_d2)
+		- **[YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)**
+		- **[ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)**
 		-
 - **[[Generative]]**
   collapsed:: true
