@@ -1,3 +1,5 @@
 - **[[Transcriber]]s**
 	- [ipa-dict](https://github.com/open-dict-data/ipa-dict)
-	-
+	- **From [[English]]**
+		- [English-to-IPA](https://github.com/mphilli/English-to-IPA)
+		-
