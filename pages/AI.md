@@ -73,4 +73,4 @@ public:: true
 - **[[Toolkit]]**
 	- [NeMo](https://github.com/NVIDIA/NeMo)
 - **[[Tools]]**
-	-
+	- [Scholarcy: The AI-powered article summarizer
