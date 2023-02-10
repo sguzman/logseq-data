@@ -48,6 +48,8 @@ public:: true
 		- [yolov7_d2](https://github.com/jinfagang/yolov7_d2)
 		- **[YOLO_v3_tutorial_from_scratch](https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch)**
 		- **[ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)**
+		- **[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)**
+		- **[YOLOv6](https://github.com/meituan/YOLOv6)**
 		-
 - **[[Generative]]**
   collapsed:: true
