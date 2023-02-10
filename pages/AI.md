@@ -50,6 +50,7 @@ public:: true
 		- **[ScaledYOLOv4](https://github.com/WongKinYiu/ScaledYOLOv4)**
 		- **[YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)**
 		- **[YOLOv6](https://github.com/meituan/YOLOv6)**
+		- [yolov7](https://github.com/WongKinYiu/yolov7)
 		-
 - **[[Generative]]**
   collapsed:: true
