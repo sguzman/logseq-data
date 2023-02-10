@@ -37,6 +37,8 @@ public:: true
 	- **[[Object Detection]]**
 		- **[yolov3](https://github.com/ultralytics/yolov3)**
 		- **[YOLOv3: Real-Time Object Detection Algorithm](https://viso.ai/deep-learning/yolov3-overview/)**
+		- **[Implementing YoloV3 for object detection](https://maelfabien.github.io/project/yolo/)**
+		-
 - **[[Generative]]**
   collapsed:: true
 	- **[[Text]]**
