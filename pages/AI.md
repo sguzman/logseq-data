@@ -41,6 +41,9 @@ public:: true
 		- **[YOLOX: Exceeding YOLO Series in 2021](https://paperswithcode.com/paper/yolox-exceeding-yolo-series-in-2021)**
 		- **[YOLO Live](https://ml4a.github.io/guides/YoloLive/)**
 		- **[YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)**
+		- **[yolov5](https://github.com/ultralytics/yolov5)**
+		- **[mmdetection](https://github.com/open-mmlab/mmdetection)**
+		- **[darknet](https://github.com/AlexeyAB/darknet)**
 		-
 - **[[Generative]]**
   collapsed:: true
