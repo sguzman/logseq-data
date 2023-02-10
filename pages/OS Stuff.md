@@ -7,4 +7,6 @@
 		- [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 		- [GoboLinux](https://www.gobolinux.org)
 		- [Linux from Scratch](https://www.linuxfromscratch.org)
+		- [Zorin OS](https://zorin.com/os/)
+		- [Pop! OS](https://pop.system76.com)
 		-
