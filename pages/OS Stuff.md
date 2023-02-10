@@ -3,4 +3,6 @@
 	- **[[Distributions]]**
 		- [blendOS](https://blendos.co)
 		- [RedoxOS](https://www.redox-os.org)
+		- [NixOS](https://nixos.org)
+		- [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 		-
