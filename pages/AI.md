@@ -39,7 +39,8 @@ public:: true
 		- **[YOLOv3: Real-Time Object Detection Algorithm](https://viso.ai/deep-learning/yolov3-overview/)**
 		- **[Implementing YoloV3 for object detection](https://maelfabien.github.io/project/yolo/)**
 		- **[YOLOX: Exceeding YOLO Series in 2021](https://paperswithcode.com/paper/yolox-exceeding-yolo-series-in-2021)**
-		- **[YOLO Live]()
+		- **[YOLO Live](https://ml4a.github.io/guides/YoloLive/)**
+		- **[YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
 - **[[Generative]]**
   collapsed:: true
 	- **[[Text]]**
