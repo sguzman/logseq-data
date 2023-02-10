@@ -9,4 +9,5 @@
 		- [Linux from Scratch](https://www.linuxfromscratch.org)
 		- [Zorin OS](https://zorin.com/os/)
 		- [Pop! OS](https://pop.system76.com)
+		- [Archlinux](https://archlinux.org)
 		-
