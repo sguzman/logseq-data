@@ -1,8 +1,8 @@
 public:: true
 
 - **[[Models]]/[[Analysis]] **
-  collapsed:: true
 	- **[[Faces]]**
+	  collapsed:: true
 		- [DECA](https://github.com/yfeng95/DECA)
 		- [PRNet](https://github.com/yfeng95/PRNet)
 		- [jeelizFaceFilter](https://github.com/jeeliz/jeelizFaceFilter)
@@ -15,6 +15,7 @@ public:: true
 		- [image-retrieval](https://github.com/deepinsight/image-retrieval)
 		-
 	- **[[3D]]**
+	  collapsed:: true
 		- [Votenet](https://github.com/facebookresearch/votenet)
 		- [Loam VBelodyne](https://github.com/laboshinl/loam_velodyne)
 		- [Frustum PointNets](https://github.com/charlesq34/frustum-pointnets)
@@ -28,8 +29,10 @@ public:: true
 		- [Mozilla TTS](https://github.com/mozilla/TTS)
 		-
 	- **[[Speech to Text]]**
+	  collapsed:: true
 		- [Whisper](https://github.com/openai/whisper)
 	- [[Vehicle]]
+	  collapsed:: true
 		- [SVL Simulator](https://github.com/lgsvl/simulator)
 - **[[Generative]]**
   collapsed:: true
