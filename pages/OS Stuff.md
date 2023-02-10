@@ -1,13 +1,14 @@
 - **[[Tutorials]]**
 - **[[Research]]**
 	- **[[Distributions]]**
-		- [blendOS](https://blendos.co)
-		- [RedoxOS](https://www.redox-os.org)
-		- [NixOS](https://nixos.org)
-		- [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
-		- [GoboLinux](https://www.gobolinux.org)
-		- [Linux from Scratch](https://www.linuxfromscratch.org)
-		- [Zorin OS](https://zorin.com/os/)
-		- [Pop! OS](https://pop.system76.com)
-		- [Archlinux](https://archlinux.org)
-		- ** [[Android]]
+		- **[[PC]] Distros**
+			- [blendOS](https://blendos.co)
+			- [RedoxOS](https://www.redox-os.org)
+			- [NixOS](https://nixos.org)
+			- [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
+			- [GoboLinux](https://www.gobolinux.org)
+			- [Linux from Scratch](https://www.linuxfromscratch.org)
+			- [Zorin OS](https://zorin.com/os/)
+			- [Pop! OS](https://pop.system76.com)
+			- [Archlinux](https://archlinux.org)
+		- **[[Android]] Distros
