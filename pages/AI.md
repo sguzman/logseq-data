@@ -36,8 +36,7 @@ public:: true
 		- [SVL Simulator](https://github.com/lgsvl/simulator)
 	- **[[Object Detection]]**
 		- **[yolov3](https://github.com/ultralytics/yolov3)**
-		- **[YOLOv3: Real-Time Object Detection Algorithm (Guide)
-		  Read more at: [https://viso.ai/deep-learning/yolov3-overview/](https://viso.ai/deep-learning/yolov3-overview/)]]
+		- **[YOLOv3: Real-Time Object Detection Algorithm](https://viso.ai/deep-learning/yolov3-overview/)**
 - **[[Generative]]**
   collapsed:: true
 	- **[[Text]]**
