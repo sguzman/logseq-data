@@ -1,10 +1,11 @@
 - **[[Tutorials]]**
 - **[[Research]]**
 	- **[[Distributions]]**
-		-
+		- **[[Rust]]-Based**
+			- [Theseus](https://github.com/theseus-os/Theseus)
+			- [RedoxOS](https://www.redox-os.org)
 		- **[[PC]] Distros**
 			- [blendOS](https://blendos.co)
-			- [RedoxOS](https://www.redox-os.org)
 			- [NixOS](https://nixos.org)
 			- [Plan 9](https://en.wikipedia.org/wiki/Plan_9_from_Bell_Labs)
 			- [GoboLinux](https://www.gobolinux.org)
