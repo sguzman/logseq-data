@@ -1,6 +1,7 @@
 public:: true
 
 - **[[Models]]/[[Analysis]] **
+  collapsed:: true
 	- **[[Faces]]**
 	  collapsed:: true
 		- [DECA](https://github.com/yfeng95/DECA)
@@ -71,3 +72,5 @@ public:: true
 	- [tensorspace](https://github.com/tensorspace-team/tensorspace)
 - **[[Toolkit]]**
 	- [NeMo](https://github.com/NVIDIA/NeMo)
+- **[[Tools]]**
+	-
