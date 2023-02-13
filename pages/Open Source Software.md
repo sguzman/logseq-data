@@ -42,10 +42,12 @@
 	- **[MuseScore](https://musescore.org/en)**
 	- **[Ardour](https://ardour.org/)**
 	- **[TeXstudio](https://www.texstudio.org/)**
-- Video Game Development
+- [[Video Game]] Development
   collapsed:: true
 	- Rust
 	- Bevy
 	- Inkle
 	- Cue
+	-
+- **[[Self-host]]**
 	-
