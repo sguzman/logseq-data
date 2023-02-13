@@ -81,4 +81,5 @@
 		- [buku](https://github.com/jarun/buku)
 	- [[Document]] [[Store]]
 		- [docat](https://github.com/docat-org/docat)
+		- **[papermerge](https://github.com/ciur/papermerge)**
 		-
