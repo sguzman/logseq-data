@@ -50,5 +50,7 @@
 	- Cue
 	-
 - **[[Self-host]]**
-	- [focalboard](https://github.com/mattermost/focalboard)
+	- **Trello**
+		- [focalboard](https://github.com/mattermost/focalboard)
+	- Hipchat
 	-
