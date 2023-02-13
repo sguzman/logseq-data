@@ -68,4 +68,5 @@
 		- [briefkasten](https://github.com/ndom91/briefkasten)
 	- [[Bitwarden]]
 		- **[vaultwarden](https://github.com/dani-garcia/vaultwarden)**
-	-
+	- [[IFTTT]]
+		-
