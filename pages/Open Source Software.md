@@ -85,3 +85,5 @@
 		- [[Manga]]
 			- **[stump](https://github.com/aaronleopold/stump)**
 			- **[tanoshi](https://github.com/faldez/tanoshi)**
+	- [[Pastebin]]
+		- [bin](https://github.com/w4/bin)
