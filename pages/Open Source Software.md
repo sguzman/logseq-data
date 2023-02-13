@@ -93,4 +93,5 @@
 		- **[filite](https://github.com/raftario/filite)**
 	- [[Search]] [[Engine]]
 		- [YaCy](https://yacy.net)
-		-
+		- **[searx](https://github.com/searx/searx)**
+	-
