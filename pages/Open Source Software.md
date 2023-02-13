@@ -54,4 +54,6 @@
 		- [focalboard](https://github.com/mattermost/focalboard)
 	- **Hipchat**
 		- [mattermost-server](https://github.com/mattermost/mattermost-server)
+	- **Evernote**
+		- [logseq](https://github.com/logseq/logseq)
 	-
