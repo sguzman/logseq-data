@@ -31,6 +31,7 @@
 		- [Github](https://github.com/mattermost/mattermost-server)
 		-
 - **[[Media]]**
+  collapsed:: true
 	- **[OpenCAD](https://opencad.io/)**
 	- **[OpenFOAM](https://www.openfoam.com/)**
 	- **[Inkscape](https://inkscape.org/)**
@@ -42,6 +43,7 @@
 	- **[Ardour](https://ardour.org/)**
 	- **[TeXstudio](https://www.texstudio.org/)**
 - Video Game Development
+  collapsed:: true
 	- Rust
 	- Bevy
 	- Inkle
