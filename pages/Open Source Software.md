@@ -82,4 +82,6 @@
 	- [[Document]] [[Store]]
 		- [docat](https://github.com/docat-org/docat)
 		- **[papermerge](https://github.com/ciur/papermerge)**
-		-
+		- [[Manga]]
+			- **[stump](https://github.com/aaronleopold/stump)**
+			- **[tanoshi](https://github.com/faldez/tanoshi)**
