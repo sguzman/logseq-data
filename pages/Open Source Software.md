@@ -88,6 +88,7 @@
 	- [[Pastebin]]
 		- [bin](https://github.com/w4/bin)
 		- **[rustypaste](https://github.com/orhun/rustypaste)**
+		- **[wastebin](https://github.com/matze/wastebin)**
 	- [[URL]] shortener
 		- **[filite](https://github.com/raftario/filite)**
 		-
