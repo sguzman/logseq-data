@@ -64,4 +64,6 @@
 		- **[delicate](https://github.com/BinChengZhao/delicate)**
 	- [[Github]]
 		- [GitLab](https://gitlab.com/gitlab-org/gitlab)
-		-
+	- [[Bookmarks]]
+		- [briefkasten](https://github.com/ndom91/briefkasten)
+	-
