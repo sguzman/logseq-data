@@ -87,3 +87,7 @@
 			- **[tanoshi](https://github.com/faldez/tanoshi)**
 	- [[Pastebin]]
 		- [bin](https://github.com/w4/bin)
+		- **[rustypaste](https://github.com/orhun/rustypaste)**
+	- [[URL]] shortener
+		- **[filite](https://github.com/raftario/filite)**
+		-
