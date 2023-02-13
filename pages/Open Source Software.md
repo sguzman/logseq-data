@@ -42,7 +42,7 @@
 	- **[MuseScore](https://musescore.org/en)**
 	- **[Ardour](https://ardour.org/)**
 	- **[TeXstudio](https://www.texstudio.org/)**
-- [[Video Game]] Development
+- [[Video Game]] [[Development]]
   collapsed:: true
 	- Rust
 	- Bevy
@@ -56,4 +56,5 @@
 		- [mattermost-server](https://github.com/mattermost/mattermost-server)
 	- **Evernote**
 		- [logseq](https://github.com/logseq/logseq)
-	-
+	- [[Remote]] Desktop Login
+		- **[rustdesk](https://github.com/rustdesk/rustdesk)**
