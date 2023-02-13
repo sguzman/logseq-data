@@ -52,5 +52,6 @@
 - **[[Self-host]]**
 	- **Trello**
 		- [focalboard](https://github.com/mattermost/focalboard)
-	- Hipchat
+	- **Hipchat**
+		- [mattermost-server](https://github.com/mattermost/mattermost-server)
 	-
