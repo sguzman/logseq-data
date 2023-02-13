@@ -50,4 +50,5 @@
 	- Cue
 	-
 - **[[Self-host]]**
+	- [focalboard](https://github.com/mattermost/focalboard)
 	-
