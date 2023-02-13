@@ -91,4 +91,6 @@
 		- **[wastebin](https://github.com/matze/wastebin)**
 	- [[URL]] shortener
 		- **[filite](https://github.com/raftario/filite)**
+	- [[Search]] [[Engine]]
+		- [YaCy](https://yacy.net)
 		-
