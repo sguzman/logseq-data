@@ -66,4 +66,6 @@
 		- [GitLab](https://gitlab.com/gitlab-org/gitlab)
 	- [[Bookmarks]]
 		- [briefkasten](https://github.com/ndom91/briefkasten)
+	- [[Bitwarden]]
+		- **[vaultwarden](https://github.com/dani-garcia/vaultwarden)**
 	-
