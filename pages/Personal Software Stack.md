@@ -12,4 +12,6 @@
 	- **[[Alacritty]]**
 	- **[[Rust]]**
 	- **[[Gerbil Scheme]]**
+	- **[[Calibre]]**
+	- **[[Git]]**
 	-
