@@ -22,4 +22,7 @@
 	- **[[VS Studio Code]]**
 	- **[[MuseScore]]**
 	- **[[TexStudio]]**
-	- **[[Ardour]]
+	- **[[Ardour]]**
+	- **[[LibreOffice]]**
+	- **[[Gimp]]**
+	- **
