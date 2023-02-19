@@ -25,4 +25,6 @@
 	- **[[Ardour]]**
 	- **[[LibreOffice]]**
 	- **[[Gimp]]**
-	- **
+	- **[[InkScape]]**
+	- **[[ffmpeg]]**
+	-
