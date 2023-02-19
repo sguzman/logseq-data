@@ -9,4 +9,6 @@
 	- **[[Emacs]]**
 	- **[[Vim]]**
 	- **[[Archlinux]]**
--
+	- **[[Alacritty]]**
+	- **[[Rust]]**
+	-
