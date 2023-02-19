@@ -1,4 +1,7 @@
 - **Introduction**
-	-
+	- I am a fan of software. The software I use has to have the following properties
+		- Free
+		- Open-Source
+		-
 - **[[Logseq]]**
 - **
