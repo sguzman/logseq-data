@@ -4,6 +4,9 @@
 		- Open-Source
 		- In continuous use
 		- Written in a modern language is possible
-- **[[Logseq]]**
-- **[[Emacs]]**
+- Software
+	- **[[Logseq]]**
+	- **[[Emacs]]**
+	- **[[Vim]]**
+	- **[[Archlinux]]**
 -
