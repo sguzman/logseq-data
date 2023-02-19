@@ -18,4 +18,5 @@
 	- **[[Haskell]]**
 	- **[[Nix]]**
 	- **[[Nix Pkgs]]**
-	- **[[Nix]]**
+	- **[[NixOS]]**
+	- ** [[VS Studio Code]]
