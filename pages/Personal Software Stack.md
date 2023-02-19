@@ -19,4 +19,7 @@
 	- **[[Nix]]**
 	- **[[Nix Pkgs]]**
 	- **[[NixOS]]**
-	- ** [[VS Studio Code]]
+	- **[[VS Studio Code]]**
+	- **[[MuseScore]]**
+	- **[[TexStudio]]**
+	- **[[Ardour]]
