@@ -14,4 +14,6 @@
 	- **[[Gerbil Scheme]]**
 	- **[[Calibre]]**
 	- **[[Git]]**
-	-
+	- **[[Gnome]]**
+	- **[[Haskell]]**
+	- **[]
